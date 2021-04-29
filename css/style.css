@@ -94,9 +94,13 @@ header .navbar-white {
 	font-weight:bolder;
 	font-family:Dosis;
 }
+.home-subtext-image {
+	text-transform:none;
+	font-weight:200 !Important;
+}
 .subtext-image {
 	text-transform:none;
-	font-weight:100 !Important;
+	font-weight:700 !Important;
 }
 .toparea {
 	background:#fff;
